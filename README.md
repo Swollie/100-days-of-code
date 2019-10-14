@@ -14,7 +14,7 @@ Tot nu waren het vooral invuloefeningen (voor mijn gevoel). Ik had verwacht dat 
   <li>Applied Accessibility</li>
   <li>Responsive Web Design Principles</li>
   <li>CSS Flexbox</li>
-  <li>CSS Grid</li><br>
+  <li>CSS Grid</li>
   <li>Responsive Web Design Projects</li>
   <ul><li>Build a Tribute Page</li>
   <li>Build a Survey Form</li>
