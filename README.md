@@ -15,13 +15,13 @@ Tot nu waren het vooral invuloefeningen (voor mijn gevoel). Ik had verwacht dat 
   <li>Responsive Web Design Principles</li>
   <li>CSS Flexbox</li>
   <li>CSS Grid</li><br>
-  <h3>Met als laatste onderdeel:</h3><br><br>
-  <li>Responsive Web Design Projects</li><br>
-  Met deze opdrachten:<br><br>
-  <li>Build a Tribute Page</li>
+  <li>Responsive Web Design Projects</li>
+  <ol><li>Build a Tribute Page</li>
   <li>Build a Survey Form</li>
   <li>Build a Product Landing Page</li>
   <li>Build a Technical Documentation Page</li>
   <li>Build a Personal Portfolio Webpage</li>
-</ul><br>
-Morgen maar aan beginnen, wordt even puzzelen. Leuk hé!
+</ol>
+  </ul>
+ <br>
+  Morgen maar aan beginnen, wordt even puzzelen. Leuk hé!
