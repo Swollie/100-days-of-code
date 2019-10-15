@@ -25,3 +25,6 @@ Tot nu waren het vooral invuloefeningen (voor mijn gevoel). Ik had verwacht dat 
   </ul>
  <br>
   Morgen maar aan beginnen, wordt even puzzelen. Leuk hé!
+  
+  <h2>15 oktober</h2><br>
+  Vandaag beetje GitHub oefenen, dzjee zeg dat is een hele wetenschap op zich!🤔 Ik heb een nieuwe repository aangemaakt, tekst geschreven. Tekst aangepast en beide teksten proberen samen te voegen (mergen) 
