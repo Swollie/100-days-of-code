@@ -26,9 +26,9 @@ Tot nu waren het vooral invuloefeningen (voor mijn gevoel). Ik had verwacht dat 
  <br>
   Morgen maar aan beginnen, wordt even puzzelen. Leuk hé!</p>
   
-  <h2>15 oktober</h2><br>
+  <h2>15 oktober 2019</h2><br>
   Vandaag beetje GitHub oefenen, dzjee zeg dat is een hele wetenschap op zich!🤔 Ik heb een nieuwe repository aangemaakt, tekst geschreven. Tekst aangepast en beide teksten proberen samen te voegen (mergen) 
-<h2>18 oktober</h2>
+<h2>18 oktober 2019</h2>
 <p>Gisteren lukte het mij niet om in te loggen op de server van freeCodeCamp dus ik kon mijn formulier niet afmaken. Ik merkte bij mezelf dat ik dat zelfs een beetje mis, zo snel gaat dat!<br>
 Hopelijk vandaag mijn formulier afmaken, is nog niet zo eenvoudig maar wel leuk al dat gepuzzel :-)<br>
 En wat ook wel leuk is, het geleerde css hier bij dit textdocument in praktijk brengen;-)</p>
