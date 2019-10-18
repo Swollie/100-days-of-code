@@ -28,3 +28,6 @@ Tot nu waren het vooral invuloefeningen (voor mijn gevoel). Ik had verwacht dat 
   
   <h2>15 oktober</h2><br>
   Vandaag beetje GitHub oefenen, dzjee zeg dat is een hele wetenschap op zich!🤔 Ik heb een nieuwe repository aangemaakt, tekst geschreven. Tekst aangepast en beide teksten proberen samen te voegen (mergen) 
+<h2>18 oktober</h2>
+Gisteren lukte het mij niet om in te loggen op de server van freeCodeCamp dus ik kon mijn formulier niet afmaken. Ik merkte bij mezelf dat ik dat zelfs een beetje mis, zo snel gaat dat!
+Hopelijk vandaag mijn formulier afmaken, is nog niet zo eenvoudig maar wel leuk al dat gepuzzel :-)
